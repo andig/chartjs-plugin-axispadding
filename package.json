@@ -1,7 +1,7 @@
 {
   "name": "chartjs-plugin-axispadding",
   "description": "Simple HTML5 charts using the canvas element.",
-  "version": "0.1.0",
+  "version": "0.2",
   "author": "Andreas Goetz <cpuidle@gmx.de>",
   "license": "MIT",
   "main": "dist/chartjs-plugin-axispadding.js",
@@ -36,6 +36,6 @@
     "zip": "^1.2.0"
   },
   "dependencies": {
-    "chart.js": "^2.6.0"
+    "chart.js": "^2.7.0"
   }
 }

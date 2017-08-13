@@ -8,7 +8,7 @@ const banner = `/*
  *
  * Copyright ` + (new Date().getFullYear()) + ` Andreas Goetz <cpuidle@gmx.de>
  * Released under the MIT license
- * https://github.com/chartjs/` + pkg.name + `/blob/master/LICENSE.md
+ * https://github.com/andig/` + pkg.name + `/blob/master/LICENSE.md
  */`;
 
 export default {

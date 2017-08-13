@@ -4,7 +4,9 @@
 
 [Chart.js](http://www.chartjs.org/) plugin to add axis scale label padding for inner axes. This ensures that axes and scale labels don't touch each other when using multiple axes per side of the chart.
 
-Requires [Chart.js](https://github.com/chartjs/Chart.js/releases) **2.6.0** or later.
+![example](https://raw.githubusercontent.com/andig/chartjs-plugin-axispadding/master/docs/shot.png)
+
+Requires [Chart.js](https://github.com/chartjs/Chart.js/releases) **2.7.0** or later.
 
 ## Configuration
 
